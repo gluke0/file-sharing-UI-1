@@ -47,3 +47,10 @@ body{
     cursor: pointer;
     transition: all 0.4s ease;
 }
+
+.left-section .sidebar .item.active h3,
+.left-section .sidebar .item.active i,
+.left-section .sidebar .item:hover,
+.left-section .sign-out:hover{
+    color: #156fc8;
+}
