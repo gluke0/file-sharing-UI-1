@@ -6,3 +6,9 @@
     padding: 0;
     font-family: "Space Mono", monospace;
 }
+
+body{
+    display: flex;
+    height: 100vh;
+    background: #e6eefa;
+}
