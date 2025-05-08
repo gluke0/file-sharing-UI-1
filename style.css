@@ -101,3 +101,12 @@ body{
     outline: none;
     width: 100%;
 }
+
+.main-section .header .search i{
+    cursor: pointer;
+}
+
+.main-section .header .icon-buttons{
+    display: flex;
+    gap: 8px;
+}
