@@ -54,3 +54,14 @@ body{
 .left-section .sign-out:hover{
     color: #156fc8;
 }
+
+.left-section .sidebar .item h3,
+.left-section .sign-out h3{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.left-section .sidebar .item i,
+.left-section .sign-out i{
+    font-size: 21px;
+}
