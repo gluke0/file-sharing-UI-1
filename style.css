@@ -67,3 +67,13 @@ body{
 }
 
 /* main */
+.main-section{
+    flex: 6;
+    padding: 25px;
+}
+
+.main-section .header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
