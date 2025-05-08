@@ -110,3 +110,13 @@ body{
     display: flex;
     gap: 8px;
 }
+
+.main-section .header .icon-buttons i{
+    font-size: 20px;
+    background: #10579f;
+    padding: 8px;
+    color: white;
+    border-radius: 9px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
