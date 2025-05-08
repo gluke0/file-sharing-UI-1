@@ -12,3 +12,16 @@ body{
     height: 100vh;
     background: #e6eefa;
 }
+
+/* left section */
+.left-section{
+    background: white;
+    width: 165px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    padding: 20px 10px;
+    transition: all 0.4s ease;
+}
