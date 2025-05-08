@@ -93,3 +93,11 @@ body{
     border: none;
     background: transparent;
 }
+
+.main-section .header .search input{
+    padding: 4px 6px;
+    font-size: 13px;
+    border: none;
+    outline: none;
+    width: 100%;
+}
