@@ -128,3 +128,9 @@ body{
 .main-section .header .icon-buttons i#menu-btn{
     display: none;
 }
+
+.main-section .separator{
+    margin: 35px 0 20px;
+    font-weight: 500;
+    color: #2b3f71;
+}
