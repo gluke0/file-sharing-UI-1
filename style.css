@@ -135,8 +135,15 @@ body{
     color: #2b3f71;
 }
 
-.main .quick-access{
+.main-section .quick-access{
     display: flex;
     justify-content: space-around;
     cursor: pointer;
+}
+
+.main-section .quick-access .item{
+    background: white;
+    width: 20%;
+    padding: 20px;
+    
 }
