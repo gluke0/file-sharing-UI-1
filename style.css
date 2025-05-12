@@ -165,3 +165,8 @@ body{
     padding: 8px;
     border-radius: 15px;
 }
+
+.main-section .quick-access .item:nth-child(1) i{
+   color: #156fc8; 
+   background: #e6e4ec;
+}
