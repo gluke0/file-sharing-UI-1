@@ -185,3 +185,15 @@ body{
     color: #3bc963; 
     background: #e2f7e8;
 }
+
+.main-section .quick-access .item h5{
+    font-size: 16px;
+    font-weight: 500;
+    color: #2b3f71;
+    margin: 15px 0 8px;
+}
+
+.main-section .quick-access .item p{
+    color: #999;
+    font-size: 13px;
+}
