@@ -249,3 +249,14 @@ body{
     font-size: 13px;
     color: #2b3f71;
 }
+
+.main-section table tbody tr td.extension,
+.main-section table tbody tr td.size,
+.main-section table tbody tr td.more{
+    color: #999;
+    font-size: 14px;
+}
+
+.main-section table tbody tr td.more i{
+    font-size: 16px;
+}
