@@ -166,12 +166,14 @@ body{
     border-radius: 15px;
 }
 
-.main-section .quick-access .item:nth-child(1) i{
+.main-section .quick-access .item:nth-child(1) i,
+.main-section table tbody tr:nth-child(3) td.icon i{
    color: #6f7071; 
    background: #e6e4ec;
 }
 
-.main-section .quick-access .item:nth-child(2) i{
+.main-section .quick-access .item:nth-child(2) i,
+.main-section table tbody tr:nth-child(2) td.icon i{
     color: #1d92f1; 
     background: #ddeffd;
 }
