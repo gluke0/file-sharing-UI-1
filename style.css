@@ -178,12 +178,14 @@ body{
     background: #ddeffd;
 }
 
-.main-section .quick-access .item:nth-child(3) i{
+.main-section .quick-access .item:nth-child(3) i,
+.main-section table tbody tr:nth-child(4) td.icon i{
     color: #ffd12c; 
     background: #fff8df;
 }
 
-.main-section .quick-access .item:nth-child(4) i{
+.main-section .quick-access .item:nth-child(4) i,
+.main-section table tbody tr:nth-child(1) td.icon i{
     color: #3bc963; 
     background: #e2f7e8;
 }
