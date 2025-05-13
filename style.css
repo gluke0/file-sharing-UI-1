@@ -215,7 +215,7 @@ body{
 
 .main-section table tbody tr{
     cursor: pointer;
-    transition: all 0.4s ease;
+    transition: all 0.2s ease;
 }
 
 .main-section table tbody tr td:nth-child(1){
