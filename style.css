@@ -284,8 +284,20 @@ body{
 }
 
 .right-section .profile .user-info img{
-    width: 40px;
-    height: 40px;
+    width: 37px;
+    height: 37px;
     border-radius: 50%;
     object-fit: cover;
+}
+
+.right-section .profile .user-info .account h5{
+    font-size: 12px;
+    margin-bottom: 2px;
+    cursor: pointer;
+    line-height: 0.8rem;
+}
+
+.right-section .profile .user-info .account p{
+    font-size: 11px;
+    color: #999;
 }
