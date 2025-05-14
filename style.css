@@ -269,7 +269,7 @@ body{
 
 .right-section .profile{
     background: white;
-    padding: 9px;
+    padding: 6px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -280,7 +280,7 @@ body{
 .right-section .profile .user-info{
     display: flex;
     align-items: center;
-    gap: 13px;
+    gap: 15px;
 }
 
 .right-section .profile .user-info img{
