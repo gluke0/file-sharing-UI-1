@@ -319,3 +319,21 @@ body{
     border-radius: 15px;
     box-shadow: 0 2px 6px rgba(136, 148, 171, 0.2), 0 24px 20px -24px rgba(71, 82, 107, 0.1);
 }
+
+.right-section .widgets .disk .progress{
+    display: flex;
+    justify-content: center;
+}
+
+.right-section .widgets .disk .progress .progress-bar{
+    width: 135px;
+    height: 135px;
+    background: radial-gradient(closest-side, #fff 79%, transparent 80% 100%), conic-gradient(#0d3b69 50%, #e9e4ff 0%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
