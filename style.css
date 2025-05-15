@@ -342,3 +342,10 @@ body{
     content: "50%";
     font-size: 20px;
 }
+
+.right-section .widgets .disk .progress .progress-bar::after{
+    content: "used";
+    font-size: 12px;
+    color: #999;
+    line-height: 0;
+}
