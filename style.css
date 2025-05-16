@@ -457,6 +457,9 @@ body{
     .main-section .quick-access .item{
         width: 22%;
     }
+    .main-section .quick-access .item i{
+        font-size: 35px;
+    }
 
 }
 
