@@ -434,6 +434,19 @@ body{
 
 /* media query */
 @media screen and (max-width: 1230px){
+    .left-section{
+        width: 90px;
+    }
+    .left-section h2{
+        font-size: 15px;
+    }
+    .left-section .sidebar .item{
+        justify-content: center;
+    }
+    .left-section .sidebar .item h3,
+    .left-section .sign-out h3{
+        display: none;
+    }
 
 }
 
