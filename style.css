@@ -353,10 +353,33 @@ body{
 .right-section .widgets .disk .infos h5{
     color: #999;
     font-weight: 500;
-    font-size: 18px;
-    margin-bottom: 7px;
+    font-size: 17px;
+    margin-bottom: 3px;
 }
 
 .right-section .widgets .disk h5 span{
     color: #2b3f71;
+}
+
+.right-section .widgets .disk .infos p{
+    font-size: 14px;
+    color: #999;
+    font-weight: 500;
+}
+
+.right-section .widgets .bottom-widget{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-section .widgets .bottom-widget button{
+    border: none;
+    background: #10579f;
+    color: white;
+    margin: 20px 0;
+    font-size: 18px;
+    padding: 13px;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
 }
