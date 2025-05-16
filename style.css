@@ -417,3 +417,17 @@ body{
     font-size: 17px;
     font-weight: 600;
 }
+
+.right-section .widgets .bottom-widget .upgrade .title i{
+    font-size: 25px;
+    padding: 7px;
+    background: #10579f;
+    color: white;
+    border-radius: 14px;
+}
+
+.right-section .widgets .bottom-widget .upgrade p{
+    color: #999;
+    font-size: 15px;
+    line-height: 1.2rem;
+}
