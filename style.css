@@ -278,27 +278,27 @@ body{
     cursor: pointer;
 }
 
-.right-section .profile .user-info{
+.right-section .profile .infos{
     display: flex;
     align-items: center;
     gap: 15px;
 }
 
-.right-section .profile .user-info img{
+.right-section .profile .infos img{
     width: 37px;
     height: 37px;
     border-radius: 50%;
     object-fit: cover;
 }
 
-.right-section .profile .user-info .account h5{
+.right-section .profile .infos .account h5{
     font-size: 12px;
     margin-bottom: 2px;
     cursor: pointer;
     line-height: 0.8rem;
 }
 
-.right-section .profile .user-info .account p{
+.right-section .profile .infos .account p{
     font-size: 11px;
     color: #999;
 }
@@ -350,7 +350,7 @@ body{
     line-height: 0;
 }
 
-.right-section .widgets .disk .user-info h5{
+.right-section .widgets .disk .infos h5{
     color: #999;
     font-weight: 500;
     font-size: 18px;
