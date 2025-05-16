@@ -447,6 +447,16 @@ body{
     .left-section .sign-out h3{
         display: none;
     }
+    .left-section .sidebar .item i,
+    .left-section .sign-out i{
+        font-size: 23px;
+    }
+    .main-section .quick-access{
+        justify-content: space-between;
+    }
+    .main-section .quick-access .item{
+        width: 22%;
+    }
 
 }
 
