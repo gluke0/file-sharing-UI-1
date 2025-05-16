@@ -350,3 +350,13 @@ body{
     line-height: 0;
 }
 
+.right-section .widgets .disk .user-info h5{
+    color: #999;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 7px;
+}
+
+.right-section .widgets .disk h5 span{
+    color: #2b3f71;
+}
