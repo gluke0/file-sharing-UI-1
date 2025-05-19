@@ -508,6 +508,17 @@ body{
     .left-section .sign-out h3{
         display: block;
     }
+    .left-section .sidebar .item i,
+    .left-section .sign-out i{
+        font-size: 21px;
+    }
+    .main-section,
+    .right-section{
+        padding: 14px;
+    }
+    .main-section .header{
+        gap: 10px;
+    }
 }
 
 
