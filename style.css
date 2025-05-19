@@ -522,6 +522,14 @@ body{
      .main-section .header .icon-buttons i#menu-btn{
         display: block;
     }
+    .main-section .quick-access .item p{
+        text-align: center;
+    }
+    .main-section table tbody tr td.name,
+    .main-section table tbody tr td.extension,
+    .main-section table tbody tr td.size{
+        font-size: 12px;
+    }
 }
 
 
