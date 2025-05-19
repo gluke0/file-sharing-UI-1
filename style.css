@@ -460,6 +460,16 @@ body{
     .main-section .quick-access .item i{
         font-size: 35px;
     }
+    .main-section .quick-access .item h5{
+        font-size: 15px;
+    }
+    .main-section .quick-access .item p,
+    .right-section .profile .info .account p{
+        font-size: 12px;
+    }
+    .right-section .widgets .disk{
+        height: 265px;
+    }
 
 }
 
