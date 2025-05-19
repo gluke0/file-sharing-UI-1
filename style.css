@@ -492,7 +492,6 @@ body{
     }
 }
 
-
 @media screen and (max-width: 992px){
     .left-section{
         position: absolute;
@@ -532,9 +531,16 @@ body{
     }
 }
 
-
 @media screen and (max-width: 768px){
-    
+      body{
+        flex-direction: column;
+    }
+     .main-section{
+        padding: 26px 15px 0;
+    }
+    .main-section .header{
+        justify-content: start;
+    }
 }
 
 
