@@ -477,7 +477,19 @@ body{
     .right-section .widgets .disk .infos h5{
         font-size: 17px;
     }
-
+       .right-section .widgets .bottom-widget button{
+        font-size: 17px;
+        padding: 12px;
+    }
+    .right-section .widgets .bottom-widget .upgrade .title h5{
+        font-size: 18px;
+    }
+    .right-section .widgets .bottom-widget .upgrade .title i{
+        font-size: 25px;
+    }
+    .right-section .widgets .bottom-widget .upgrade p{
+        font-size: 14px;
+    }
 }
 
 
