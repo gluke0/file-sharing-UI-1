@@ -549,6 +549,9 @@ body{
         top: 17px;
         right: 17px;
     }
+    .main-section table{
+        padding: 25px 0;
+    }
     .right-section .widgets{
         flex-direction: column;
         gap: 20px;
