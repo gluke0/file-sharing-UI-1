@@ -470,6 +470,13 @@ body{
     .right-section .widgets .disk{
         height: 265px;
     }
+    .right-section .widgets .disk .progress .progress-bar{
+        width: 120px;
+        height: 120px;
+    }
+    .right-section .widgets .disk .infos h5{
+        font-size: 17px;
+    }
 
 }
 
