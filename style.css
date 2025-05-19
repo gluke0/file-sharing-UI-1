@@ -551,17 +551,22 @@ body{
     }
     .right-section .widgets{
         flex-direction: column;
-        gap: 40px;
+        gap: 20px;
     }
     .right-section .widgets .disk{
         width: 100%;
     }
     .right-section .widgets .bottom-widget{
         justify-content: center;
-        gap: 30px;
+        gap: 40px;
     }
     .right-section .widgets .bottom-widget button{
         margin: 0;
+    }
+    .right-section .widgets .bottom-widget .upgrade{
+       display: flex;
+       align-items: center;
+       justify-content: center;
     }
 }
 
