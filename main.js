@@ -2,7 +2,6 @@ let sidebarItems = document.querySelectorAll('.sidebar .item');
 let tableRows = document.querySelectorAll('.main-section table tbody tr');
 let menuButton = document.getElementById('menu-btn');
 let leftSection = document.querySelector('.left-section');
-
 let openMenu = false;
 
 sidebarItems.forEach(sideItem =>{
@@ -31,3 +30,4 @@ menuButton.addEventListener('click', () =>{
     }
     openMenu = !openMenu;
 });
+
