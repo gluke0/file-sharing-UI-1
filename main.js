@@ -22,3 +22,12 @@ tableRows.forEach(tableTr =>{
         tableTr.classList.add('selected');
     });
 });
+
+menuButton.addEventListener('click', () =>{
+    if (!openMenu){
+        leftSection.style.left = '0';
+    }else{
+        leftSection.style.left = '-160px';
+    }
+    openMenu = !openMenu;
+});
