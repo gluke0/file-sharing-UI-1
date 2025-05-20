@@ -13,3 +13,12 @@ sidebarItems.forEach(sideItem =>{
         sideItem.classList.add('active');
     });
 });
+
+tableRows.forEach(tableTr =>{
+    tableTr.addEventListener('click', () =>{
+        tableRows.forEach(item =>{
+            item.classList.remove('selected');
+        });
+        tableTr.classList.add('selected');
+    });
+});
