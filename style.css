@@ -583,4 +583,10 @@ body{
     .right-section .profile{
         width: 90%;
     }
+    .right-section .widgets .disk .infos h5{
+        font-size: 12px;
+    }
+    .right-section .widgets .disk .infos p{
+        font-size: 11px;
+    }
 }
