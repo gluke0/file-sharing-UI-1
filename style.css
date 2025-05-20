@@ -574,5 +574,13 @@ body{
 }
 
 @media screen and (max-width: 576){
-
+    .main-section{
+        padding: 90px 15px 0;
+    }
+    .main-section .header .search{
+        width: 60%;
+    }
+    .right-section .profile{
+        width: 90%;
+    }
 }
