@@ -175,7 +175,8 @@ body{
 }
 
 .main-section .quick-access .item:nth-child(2) i,
-.main-section table tbody tr:nth-child(2) td.icon i{
+.main-section table tbody tr:nth-child(2) td.icon i,
+.main-section table tbody tr:nth-child(7) td.icon i{
     color: #1d92f1; 
     background: #ddeffd;
 }
