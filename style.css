@@ -562,9 +562,6 @@ body{
     .main-section table{
         padding: 25px 0;
     }
-    .showmore{
-        font-size: x-small;
-    }
     .right-section .widgets{
         flex-direction: column;
         gap: 20px;
