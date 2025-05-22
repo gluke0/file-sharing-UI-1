@@ -447,6 +447,10 @@ body{
     margin-top: 22px;
 }
 
+#aplayer div h6{
+    color: #2b3f71;
+}
+
 #aplayer .ri-play-large-line{
     margin: 0 20px;
 }
