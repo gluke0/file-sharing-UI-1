@@ -446,6 +446,11 @@ body{
     margin-top: 22px;
 }
 
+#aplayer .ri-rewind-mini-line, #aplayer .ri-speed-mini-line{
+    font-size: small;
+    border-radius: 10px;
+}
+
 #aplayer{
     display: block;
     text-align: center;
