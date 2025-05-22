@@ -442,6 +442,10 @@ body{
     line-height: 1.2rem;
 }
 
+.right-section .widgets .bottom-widget .mediaplayer{
+    margin-top: 22px;
+}
+
 /* media query */
 @media screen and (max-width: 1230px){
     .left-section{
