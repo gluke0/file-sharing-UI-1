@@ -446,6 +446,10 @@ body{
     margin-top: 22px;
 }
 
+#aplayer .ri-play-large-line{
+    margin: 0 20px;
+}
+
 #aplayer .ri-rewind-mini-line, #aplayer .ri-speed-mini-line{
     font-size: small;
     border-radius: 10px;
@@ -465,12 +469,14 @@ body{
     border: 1px solid #0d3b69;
     height: 10px;
     border-radius: 14px;
+    margin-top: 10px;
 }
 
 .inside-player{
     height: 8px;
-    background-color: yellow;
+    background-color: #0d3b69;
     width: 45%;
+    border-radius: 14px;
 }
 
 
