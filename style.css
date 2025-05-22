@@ -446,6 +446,17 @@ body{
     margin-top: 22px;
 }
 
+#aplayer{
+    display: block;
+    text-align: center;
+}
+
+#aplayer div{
+    margin-top: 10px;
+}
+
+
+
 /* media query */
 @media screen and (max-width: 1230px){
     .left-section{
