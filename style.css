@@ -479,6 +479,14 @@ body{
     border-radius: 14px;
 }
 
+.volume-area{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+
 
 
 /* media query */
