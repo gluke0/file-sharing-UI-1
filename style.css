@@ -484,10 +484,12 @@ body{
     display: flex;
     justify-content: center;
     margin: auto;
+    color: #10579f;
 }
 
-
-
+.volume-area .ri-volume-mute-line{ 
+    margin: 0 20px;
+}
 
 /* media query */
 @media screen and (max-width: 1230px){
