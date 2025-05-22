@@ -398,7 +398,7 @@ body{
     background: #0d47a1;
 }
 
-.right-section .widgets .bottom-widget .upgrade{
+.right-section .widgets .bottom-widget .upgrade, .right-section .widgets .bottom-widget .mediaplayer{
     background: white;
     padding: 23px;
     height: 150px;
@@ -428,7 +428,8 @@ body{
     font-weight: 600;
 }
 
-.right-section .widgets .bottom-widget .upgrade .title i{
+.right-section .widgets .bottom-widget .upgrade .title i, 
+.right-section .widgets .bottom-widget .mediaplayer .title i{
     font-size: 25px;
     padding: 7px;
     background: #10579f;
