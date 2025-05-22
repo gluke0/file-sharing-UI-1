@@ -460,6 +460,18 @@ body{
     margin-bottom: 15px;
 }
 
+.container-player{
+    width: 100%;
+    border: 1px solid red;
+    height: 10px;
+}
+
+.inside-player{
+    height: 8px;
+    background-color: yellow;
+    width: 45%;
+}
+
 
 
 /* media query */
