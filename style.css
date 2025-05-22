@@ -462,8 +462,9 @@ body{
 
 .container-player{
     width: 100%;
-    border: 1px solid red;
+    border: 1px solid #0d3b69;
     height: 10px;
+    border-radius: 14px;
 }
 
 .inside-player{
