@@ -437,6 +437,10 @@ body{
     border-radius: 14px;
 }
 
+#aplayer .ri-pause-large-line{
+    background: #10579f!important;
+}
+
 .right-section .widgets .bottom-widget .upgrade p{
     color: #999;
     font-size: 15px;
@@ -451,7 +455,7 @@ body{
     color: #2b3f71;
 }
 
-#aplayer .ri-play-large-line{
+#aplayer .ri-play-large-line, #aplayer .ri-pause-large-line{
     margin: 0 20px;
 }
 
@@ -496,7 +500,7 @@ body{
     margin: 0 20px;
 }
 
-#aplayer .ri-rewind-mini-line:hover, #aplayer .ri-play-large-line:hover, #aplayer .ri-speed-mini-line:hover{
+#aplayer .ri-rewind-mini-line:hover, #aplayer .ri-play-large-line:hover, #aplayer .ri-speed-mini-line:hover, #aplayer .ri-pause-large-line{
     background-color: #0d47a1;
 }
 
