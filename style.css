@@ -496,6 +496,10 @@ body{
     margin: 0 20px;
 }
 
+.ri-volume-mute-line:hover, .ri-volume-up-line:hover, .ri-volume-down-line:hover{
+    scale: 1.2;
+}
+
 /* media query */
 @media screen and (max-width: 1230px){
     .left-section{
