@@ -398,7 +398,7 @@ body{
     background: #0d47a1;
 }
 
-.right-section .widgets .bottom-widget .upgrade, .right-section .widgets .bottom-widget .mediaplayer{
+.right-section .widgets .bottom-widget .upgrade{
     background: white;
     padding: 23px;
     height: 150px;
@@ -408,6 +408,19 @@ body{
     border-radius: 14px;
     border: 2px solid transparent;
     cursor: pointer;
+    box-shadow: 0 2px 6px rgba(136, 148, 171, 0.2), 0 24px 20px -24px rgba(71, 82, 107, 0.1);
+    transition: all 0.2s ease;
+}
+
+.right-section .widgets .bottom-widget .mediaplayer{
+    background: white;
+    padding: 23px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    border-radius: 14px;
+    border: 2px solid transparent;
     box-shadow: 0 2px 6px rgba(136, 148, 171, 0.2), 0 24px 20px -24px rgba(71, 82, 107, 0.1);
     transition: all 0.2s ease;
 }
@@ -502,15 +515,18 @@ body{
 
 #aplayer .ri-rewind-mini-line:hover, #aplayer .ri-play-large-line:hover, #aplayer .ri-speed-mini-line:hover, #aplayer .ri-pause-large-line{
     background-color: #0d47a1;
+    cursor: pointer;
 }
 
 .ri-volume-mute-line:hover, .ri-volume-up-line:hover, .ri-volume-down-line:hover{
     scale: 1.2;
+    cursor: pointer;
     color: #0d47a1;
 }
 
 .container-player:hover{
     scale: 1.1;
+    cursor: pointer;
 }
 
 /* media query */
