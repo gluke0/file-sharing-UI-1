@@ -2,6 +2,8 @@ let sidebarItems = document.querySelectorAll('.sidebar .item');
 let tableRows = document.querySelectorAll('.main-section table tbody tr');
 let menuButton = document.getElementById('menu-btn');
 let leftSection = document.querySelector('.left-section');
+let playButton = document.querySelector('.ri-play-large-line');
+let volumeButton = document.querySelector('.ri-volume-mute-line');
 let openMenu = false;
 
 sidebarItems.forEach(sideItem =>{
