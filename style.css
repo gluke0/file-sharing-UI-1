@@ -505,7 +505,7 @@ body{
     width: 90%;
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin: 15px auto;
     color: #10579f;
 }
 
