@@ -33,3 +33,12 @@ menuButton.addEventListener('click', () =>{
     openMenu = !openMenu;
 });
 
+playButton.addEventListener('click', function(){
+    if(playButton.className === ("ri-play-large-line")){
+        playButton.classList.remove("ri-play-large-line");
+        playButton.classList.add("ri-pause-large-line");
+    }else{
+        playButton.classList.remove("ri-pause-large-line");
+        playButton.classList.add("ri-play-large-line");
+    }  
+});
