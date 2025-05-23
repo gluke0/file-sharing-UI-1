@@ -509,7 +509,7 @@ body{
     color: #0d47a1;
 }
 
-.inside-player:hover{
+.container-player:hover{
     scale: 1.1;
 }
 
