@@ -466,6 +466,7 @@ body{
 
 #aplayer div h6{
     color: #2b3f71;
+    margin-bottom: 15px;
 }
 
 #aplayer .ri-play-large-line, #aplayer .ri-pause-large-line{
@@ -491,7 +492,7 @@ body{
     border: 1px solid #0d3b69;
     height: 10px;
     border-radius: 14px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .inside-player{
