@@ -496,6 +496,10 @@ body{
     margin: 0 20px;
 }
 
+#aplayer .ri-rewind-mini-line:hover, #aplayer .ri-play-large-line:hover, #aplayer .ri-speed-mini-line:hover{
+    background-color: #0d3b69;
+}
+
 .ri-volume-mute-line:hover, .ri-volume-up-line:hover, .ri-volume-down-line:hover{
     scale: 1.2;
     color: #0d47a1;
