@@ -42,4 +42,3 @@ playButton.addEventListener('click', function(){
         playButton.classList.add("ri-play-large-line");
     }  
 });
-
