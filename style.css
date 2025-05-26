@@ -674,7 +674,13 @@ body{
     }
     #aplayer .ri-play-large-line, #aplayer .ri-pause-large-line{
     margin: 0 25px;
-}
+    margin-bottom: 20px!important;
+    }
+    .mediaplayer .container-player{
+        width: 70%;
+        margin-left:  auto;
+        margin-right: auto;
+    }
 }
 
 @media screen and (max-width: 576){
