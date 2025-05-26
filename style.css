@@ -672,6 +672,9 @@ body{
        align-items: center;
        justify-content: center;
     }
+    #aplayer .ri-play-large-line, #aplayer .ri-pause-large-line{
+    margin: 0 25px;
+}
 }
 
 @media screen and (max-width: 576){
