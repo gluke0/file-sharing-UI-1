@@ -672,11 +672,6 @@ body{
        align-items: center;
        justify-content: center;
     }
-    .ri-play-large-line{
-        margin: 0 0px;
-    }
-
-
 }
 
 @media screen and (max-width: 576){
