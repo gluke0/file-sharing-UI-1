@@ -627,6 +627,9 @@ body{
     .main-section table tbody tr td.size{
         font-size: 12px;
     }
+    #aplayer .ri-play-large-line, #aplayer .ri-pause-large-line{
+    margin: 0 10px;
+    }
 }
 
 @media screen and (max-width: 768px){
@@ -669,9 +672,11 @@ body{
        align-items: center;
        justify-content: center;
     }
+    .ri-play-large-line{
+        margin: 0 0px;
+    }
 
 
-    
 }
 
 @media screen and (max-width: 576){
